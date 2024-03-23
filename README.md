@@ -10,7 +10,7 @@
 
 ---
 
-### OpenClassroom PHP is a repository that was advised to me by my sensei, Mehdi-san, to take.
+### OpenClassroom PHP is a repository that contains an online class was advised to me by my sensei, Mehdi-san, to take.
 The main goal is to learn and solidfy my skills in the coding language PHP as much as other server environments such as MySQL and Apache. 
 I'm doing this course while being at the clinic.
 
